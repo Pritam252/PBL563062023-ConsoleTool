@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pbl-console-tool-563062023
+Version: 0.1.0
+Summary: Console based Administration tool for the PBL563062023 Project.
+Home-page: https://github.com/Pritam252/PBL563062023-ConsoleTool
+Author: Pritam252
+Author-email: pritampradhan254@gmail.com
+License: MIT
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research :: PBL
+Classifier: License :: OSI Approved :: MIT
+Classifier: Operating System :: Windows :: Linux
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+License-File: LICENSE

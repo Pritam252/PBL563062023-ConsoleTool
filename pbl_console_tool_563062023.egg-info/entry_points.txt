@@ -1,0 +1,2 @@
+[console_scripts]
+pbl306-console-tool = pblconsoletool.cmdline:main
